@@ -8,7 +8,7 @@
     .hero {
         position: relative;
         height: 130vh;
-        background: url('images/123.jpg') no-repeat center center;
+        background: url('images/new.jpg') no-repeat center center;
         background-size: cover;
         display: flex;
         flex-direction: column;
@@ -154,4 +154,5 @@
 
     .align1 {
         text-align: center;
+
     }
